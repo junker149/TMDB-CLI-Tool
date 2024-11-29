@@ -44,3 +44,12 @@ A command-line interface (CLI) tool to fetch and display movie data from the TMD
 - ```popular```  - Fetches popular movies.
 - ```top```      - Fetches top movies.
 - ```upcoming``` - Fetches upcoming movies.
+
+## Built With
+- Node.js
+- TypeScript
+- Axios
+- Yargs
+
+## Acknowledgments
+TMDB API for providing movie data.
