@@ -33,3 +33,14 @@ A command-line interface (CLI) tool to fetch and display movie data from the TMD
 4. Make the CLI tool executable:
     ```bash
     chmod +x ./src/server.ts
+
+## Usage
+- Run the CLI tool using the following format:
+    ```bash
+    tmdb-app --type <category>
+
+## Available Categories
+```playing``` Fetches now playing movies.
+```popular``` Fetches popular movies.
+```top``` Fetches top movies.
+```upcoming``` Fetches upcoming movies.
