@@ -40,7 +40,7 @@ A command-line interface (CLI) tool to fetch and display movie data from the TMD
     tmdb-app --type <category>
 
 ## Available Categories
-```playing``` Fetches now playing movies.
-```popular``` Fetches popular movies.
-```top``` Fetches top movies.
-```upcoming``` Fetches upcoming movies.
+- ```playing```  - Fetches now playing movies.
+- ```popular```  - Fetches popular movies.
+- ```top```      - Fetches top movies.
+- ```upcoming``` - Fetches upcoming movies.
