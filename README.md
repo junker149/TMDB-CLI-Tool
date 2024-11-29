@@ -2,6 +2,8 @@
 
 A command-line interface (CLI) tool to fetch and display movie data from the TMDB (The Movie Database) API. This tool lets you quickly retrieve information about now-playing, popular, top-rated, and upcoming movies.
 
+Project taken from https://roadmap.sh/projects/tmdb-cli
+
 ## Features
 - Fetch movie data from TMDB API.
 - Supports multiple movie categories:
